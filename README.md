@@ -1,1 +1,1 @@
-These codes generate the figures of the following paper  [[preprint](https://www.researchsquare.com/article/rs-2624478/v1)].
+These codes generate the figures of the following paper Pepiot A., Supervie V. and Breban R., _Impact of voluntary testing on infectious disease epidemiology : A game theoretic approach_ [[preprint](https://www.researchsquare.com/article/rs-2624478/v1)].
